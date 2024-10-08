@@ -12,6 +12,8 @@ The aim of the project is to create a working hangman game that randomly picks a
 
 Milestone 4 starts a new direction of creating the hangman game using a class. In the milestone a word will be chosen and will ask you to guess letters based on a list which looks like this: [_][_][_], Also set up is lives and words guessed as well as unique words left.
 
+Milestone 5 .py file completes the game and allows you to lose and win based on a while loop outside of the class.
+
 ## installation
 TODO: write installation instructions (click download ?)
 
