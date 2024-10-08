@@ -10,6 +10,8 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 
 The aim of the project is to create a working hangman game that randomly picks a word and allows the player to guess letters until solving the word or losing
 
+Milestone 4 starts a new direction of creating the hangman game using a class. In the milestone a word will be chosen and will ask you to guess letters based on a list which looks like this: [_][_][_], Also set up is lives and words guessed as well as unique words left.
+
 ## installation
 TODO: write installation instructions (click download ?)
 
